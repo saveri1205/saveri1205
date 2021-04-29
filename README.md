@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saveri1205
+- 👋 Hi, I’m Saveri
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning Natural Language Processing
 - 📫 How to reach me susarlasaveri@gmail.com
